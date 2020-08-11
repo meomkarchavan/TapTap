@@ -1,3 +1,4 @@
 .DS_Store
 dev/client/node_modules/
 dev/server/node_modules/
+deploy/
